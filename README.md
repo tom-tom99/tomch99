@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Tom 👋
+
+<!-- Added Typing ticker -->    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Young graduate of a master's degree in statistical engineering ; Passionate about data science/analyses)](https://git.io/typing-svg)
+
 
 <!--
 **tomch99/tomch99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
