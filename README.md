@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Tom 👋
 <!-- Added Typing ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Young+graduate+of+master's+degree+in+statistical+engineering.;Passionate+about+data+science+/analyses.)](https://git.io/typing-svg)
-
-
 [![MasterHead]( https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)](https://rishavchanda.io)                          
 <h3 align="center">Young graduate of a master's degree in statistical engineering \n Passionate about data science/analyses</h3>
 <h3 align="left">Connect with me:</h3>
-(img align="right" alt="Coding" width="400" src=”https://data_visualization_by_jardson_almeida.gif (800×600) (dribbble.com) ”)
+(img align="right" alt="Coding" width="400" src=”https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif ”)
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
