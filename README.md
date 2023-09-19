@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Tom 👋
+<!-- Added Typing ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Young+graduate+of+master's+degree+in+statistical+engineering.;Passionate+about+data+science+/analyses.)](https://git.io/typing-svg)
 
 
 [![MasterHead]( https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)](https://rishavchanda.io)                          
