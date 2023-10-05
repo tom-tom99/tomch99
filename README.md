@@ -5,3 +5,18 @@
 
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomch99&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+
+
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
