@@ -25,4 +25,5 @@
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.rstudio.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> 
 
-<a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://www.codercrunch.com/content/tool/images/formatter-sql-f.svg" alt="sql" width="40" height="40"/> </a> 
+
+
